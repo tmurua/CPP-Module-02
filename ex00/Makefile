@@ -1,4 +1,4 @@
-NAME    = my_first_class_in_orthodox_canonical_form
+NAME    = fixed
 CXX     = c++
 CXXFLAGS= -Wall -Wextra -Werror -std=c++98
 SRC     = main.cpp Fixed.cpp
